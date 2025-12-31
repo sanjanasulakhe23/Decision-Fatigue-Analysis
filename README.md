@@ -1,3 +1,8 @@
+# Decision Fatigue Analysis
+_Modeling Cognitive Load Through Lifestyle & Stress Indicators_
+
+
+
 ## 🧠 Concept & Approach
 
 Decision fatigue is not directly measurable in real-world datasets.  
